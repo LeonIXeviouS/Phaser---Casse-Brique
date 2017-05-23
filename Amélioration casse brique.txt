@@ -1,0 +1,17 @@
+Amélioration casse brique
+
+- Mettre des " bonus " dans un groupe pour pouvoir les gérés ensemble.
+	Comme dès que le joueur perd une vie, si il a un bonus il le perd.
+
+- Faire en sorte que le jeu ne ce lance immediatement, mais le joueur doit appuyers sur un touche pour le lancer
+
+- Afficher les bonus qu'a le joueur ( + temps restant du bonus ?)
+
+- Afficher le timer avant le prochain bonus 
+
+- Bonus 
+	- Boule de feu ( transperce toutes les briques et les détruits )
+	- La taille du paddle augmente/diminue
+	- Lose instant
+	- Multi ball
+
