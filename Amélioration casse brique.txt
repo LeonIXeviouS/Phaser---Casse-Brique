@@ -1,9 +1,9 @@
 Amélioration casse brique
 
 - Mettre des " bonus " dans un groupe pour pouvoir les gérés ensemble.
-	Comme dès que le joueur perd une vie, si il a un bonus il le perd.
+	Comme : dès que le joueur perd une vie, si il a un bonus, il le perd.
 
-- Faire en sorte que le jeu ne ce lance immediatement, mais le joueur doit appuyers sur un touche pour le lancer
+- Faire en sorte que le jeu se lance immédiatement, mais le joueur doit appuyer sur une touche pour le lancer
 
 - Afficher les bonus qu'a le joueur ( + temps restant du bonus ?)
 
